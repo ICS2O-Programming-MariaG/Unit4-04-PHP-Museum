@@ -20,7 +20,7 @@
     $cost = "You get a discount with student pricing!";
   }
   else {
-    $cost = "You have to pay regular price to visit the museum.";
+    $cost = "You have to pay the regular price to visit the museum.";
   }
   //displaying the appropriate cost to the screen
   echo "$cost";
